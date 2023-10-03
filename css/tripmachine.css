@@ -1,0 +1,181 @@
+*{margin: 0;
+	padding: 0;
+}
+.navbar{
+	width: 100%;
+	height: 120px;
+	background: white;
+	position: fixed;
+}
+.navbar img{
+	width: 151px;
+	margin-top: 17px;
+	margin-left: 150px;
+}
+.menu{
+	float: right;
+	margin-top: 25px;
+	margin-right: 82px;
+	text-align: center;
+}
+.menu a{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: cursive;
+	padding: 0px 10px;
+	color: black;
+	text-transform: uppercase;
+}
+.menu a:hover{
+	color: red;
+}
+.menu h4:hover{
+	color: red;
+}
+.b img{
+	width: 100%;
+	height: 800px;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+    margin-top: 120px;
+}
+.b button{
+	color: white;
+	width: 150px;
+	height: 50px;
+	margin-top: -300px;
+	margin-left: 300px;
+}
+.c{
+	border: 1px black;
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding: 10px;
+	margin-left: 40px;
+}
+.d{
+border: 1px black;
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding: 10px;
+}
+.e{
+border: 1px black;
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding: 10px;
+}
+.f{
+border: 1px black;
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding: 10px;
+}
+.g img{
+	margin-top: 20px;
+	width: 100%;
+	height: 650px;
+	background-size: cover;
+}
+.g h1{
+	margin-top: -400px;
+	text-align: center;
+	color: white;
+}
+.g button{
+	margin-top: -300px;
+	border: 2px solid white;
+	width: 120px;
+	height: 40px;
+	color:white ;
+	margin-left: 600px;
+    margin-top: 30px;
+    background: transparent;
+}
+.h img{
+	border: 1px black;
+	width: 500px;
+	height: 500px;
+	float: left;
+	padding: 10px;
+	margin-top: 260px;
+	margin-left: 240px;
+}
+.i img{
+	border: 1px black;
+	width: 500px;
+	height: 500px;
+	float: left;
+	padding: 10px;
+	margin-top: 260px;
+}
+.j img{
+border: 1px black;
+	width: 500px;
+	height: 500px;
+	float: left;
+	padding: 10px;
+	margin-left: 240px;
+	margin-top: -1px;
+}
+.k{
+	border: 1px black;
+	width: 500px;
+	height: 500px;
+	float: left;
+	padding: 10px;	
+}
+.footer{
+	border: 2px solid black;
+	background: black;
+	width: 100%;
+	height: 270px;
+	margin-top: 50px;
+	float:left ;
+}
+.footer h1{
+	color: white;
+	text-align: center;
+	font-size: 24px;
+	margin-top: 50px;
+}
+.footer h4{
+	color: white;
+	text-align: center;
+	margin-top: 20px;
+}
+.footer input{
+	width: 16%;
+	padding: 20px;
+	border-radius: 8px;
+	font-size: 15px;
+	border: none;
+	outline: none;
+	margin-left: 500px;
+}
+.footer button{
+	width: 10%;
+	padding: 20px;
+	background: #4a4848;
+	font-size: 15px;
+	border: none;
+	border-radius: 8px;
+	margin-top: 40px;
+	color: white;
+	outline: none;
+}
+.footer1{
+	border: 1px solid white;
+	width: 100%;
+	height: 500px;
+	margin-top: 400px;
+}
+.footer1 h3:hover{
+	color: red;
+}
